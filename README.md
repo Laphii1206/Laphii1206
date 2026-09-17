@@ -2,21 +2,16 @@
 
 ###
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top">
-      <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Laphii1206&layout=compact&langs_count=6&theme=nightowl">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Laphii1206&layout=compact&langs_count=6&theme=nightowl" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td valign="top">
+    <td width="50%" align="center" valign="middle">
       <a href="https://github.com/osumalaysia/tournament-bot">
-        <img src="https://github-stats-extended.vercel.app/api/pin?username=Laphii1206&repo=osumalaysia%2Ftournament-bot&theme=jolly" alt="GitHub Stats" />
+        <img width="100%" src="https://github-stats-extended.vercel.app/api/pin?username=Laphii1206&repo=osumalaysia%2Ftournament-bot&theme=jolly" alt="GitHub Stats" />
       </a>
     </td>
-    <td valign="top">
+    <td width="50%" align="center" valign="middle">
       <a href="https://github.com/Laphii1206/about-me-v2">
-        <img src="https://github-stats-extended.vercel.app/api/pin?username=Laphii1206&repo=Laphii1206%2Fabout-me-v2&theme=jolly" alt="GitHub Stats" />
+        <img width="100%" src="https://github-stats-extended.vercel.app/api/pin?username=Laphii1206&repo=Laphii1206%2Fabout-me-v2&theme=jolly" alt="GitHub Stats" />
       </a>
     </td>
   </tr>
@@ -57,6 +52,14 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
 </div>
+<br>
+
+<p align="left">
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Laphii1206&layout=compact&langs_count=6&theme=nightowl">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Laphii1206&layout=compact&langs_count=6&theme=nightowl" alt="GitHub Stats" />
+  </a>
+</p>
+
 
 ###
 
