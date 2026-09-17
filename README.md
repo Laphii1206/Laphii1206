@@ -53,21 +53,24 @@
   <a href="https://discord.com/users/365086070754246657" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="clasadlife00@gmail.com" target="_blank">
+  <a href="mailto:clasadlife00@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://arisu.s-ul.eu/J5YiNPkH"  />
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laphii1206/laphii1206/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laphii1206/laphii1206/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laphii1206/laphii1206/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
+<table>
+  <tr>
+    <td valign="center">
+      <picture data-importer="pacman">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laphii1206/laphii1206/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laphii1206/laphii1206/pacman-output/pacman-contribution-graph.svg?game=pacman">
+        <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laphii1206/laphii1206/pacman-output/pacman-contribution-graph.svg?game=pacman">
+      </picture>
+    </td>
+    <td valign="center">
+      <img data-importer="image" height="150" src="https://arisu.s-ul.eu/J5YiNPkH" />
+    </td>
+  </tr>
+</table>
