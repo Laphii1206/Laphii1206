@@ -2,11 +2,25 @@
 
 ###
 
-<p align="left">
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Laphii1206&layout=compact&langs_count=6&theme=nightowl">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Laphii1206&layout=compact&langs_count=6&theme=nightowl" alt="GitHub Stats" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Laphii1206&layout=compact&langs_count=6&theme=nightowl">
+        <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs?username=Laphii1206&layout=compact&langs_count=6&theme=nightowl" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/osumalaysia/tournament-bot">
+        <img height="150" src="https://github-stats-extended.vercel.app/api/pin?username=Laphii1206&repo=osumalaysia%2Ftournament-bot&theme=jolly" alt="Tournament Bot Stats" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/Laphii1206/about-me-v2">
+        <img height="150" src="https://github-stats-extended.vercel.app/api/pin?username=Laphii1206&repo=Laphii1206%2Fabout-me-v2&theme=jolly" alt="About Me Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
 
