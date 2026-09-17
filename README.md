@@ -52,14 +52,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
 </div>
-<br>
-
-<p align="left">
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Laphii1206&layout=compact&langs_count=6&theme=nightowl">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Laphii1206&layout=compact&langs_count=6&theme=nightowl" alt="GitHub Stats" />
-  </a>
-</p>
-
 
 ###
 
