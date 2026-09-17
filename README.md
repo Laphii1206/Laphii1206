@@ -2,7 +2,11 @@
 
 ###
 
-<p data-importer="text" align="left">[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Laphii1206&layout=compact&langs_count=6&theme=nightowl)](https://github-stats-extended.vercel.app/api/top-langs?username=Laphii1206&layout=compact&langs_count=6&theme=nightowl)</p>
+<p align="left">
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Laphii1206&layout=compact&langs_count=6&theme=nightowl">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Laphii1206&layout=compact&langs_count=6&theme=nightowl" alt="GitHub Stats" />
+  </a>
+</p>
 
 ###
 
