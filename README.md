@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Ciao Su! My name is Laphii and I'm a Hybrid Data Analyst and Developer from Malaysia</h2>
+<h2 data-importer="text" align="left">Ciao Su! My name is Laphii and I'm a Hybrid Data Analyst and Developer somehow now a Full Stack Developer from Malaysia</h2>
 
 ###
 
